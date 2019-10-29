@@ -26,7 +26,7 @@
     },
     "dependencies": {
         "@smallwei/avue": "^1.6.2",
-        "axios": "0.18.0",
+        "axios": "0.19.0",
         "better-scroll": "^1.12.1",
         "clipboard": "1.7.1",
         "driver.js": "0.9.5",
